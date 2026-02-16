@@ -1,5 +1,6 @@
 import sys
-#sys.setrecursionlimit(10**6)
+
+# sys.setrecursionlimit(10**6)
 from collections import Counter, defaultdict, deque
 from bisect import bisect_left, bisect_right
 from copy import deepcopy
@@ -11,11 +12,11 @@ input = sys.stdin.readline
 
 
 def solve():
-    n , q , k = list(map(int, input().split()))
-    type = list(map(int, input().split()))
+    n, q, k = list(map(int, input().split()))
+    nums = list(map(int, input().split()))
     adj = defaultdict(list)
     for _ in range(q):
-        a , b = list(map(int, input().split()))
+        a, b = list(map(int, input().split()))
         a -= 1
         b -= 1
         adj[a].append(b)
@@ -23,16 +24,17 @@ def solve():
     ans = [0] * k
     visited = set()
     heap = [(0, 0)]
+    visited.add(0)
     while heap:
         cost, ele = heappop(heap)
-        if ele in visited:
+        if cost < ans[nums[ele] - 1]:
             continue
-        ans[type[ele] - 1] = max(cost, ans[type[ele] - 1])
-        visited.add(ele)
+        ans[nums[ele] - 1] = max(cost, ans[nums[ele] - 1])
         for nei in adj[ele]:
-            heappush(heap, (cost + 1, nei))
+            if nei not in visited:
+                visited.add(nei)
+                heappush(heap, (cost + 1, nei))
     print(*ans)
-        
 
 
 def main():
@@ -41,5 +43,5 @@ def main():
         solve()
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
