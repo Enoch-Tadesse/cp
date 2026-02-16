@@ -1,0 +1,1 @@
+{"src_ft":"cpp","name":"B. Journey","src_name":"B_Journey","need_compilation":true,"tests":[{"stdout":"5\n1\n6\n1000000000\n","stderr":"","time_taken":0.01,"input":"4\n12 1 5 3\n6 6 7 4\n16 3 4 1\n1000000000 1 1 1\n","output":"5\n1\n6\n1000000000\n","status":{"text":"Accepted","hl":"AstTextGreen"}}],"src_ext":"cpp"}

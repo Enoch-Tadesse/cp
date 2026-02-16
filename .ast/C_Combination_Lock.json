@@ -1,0 +1,1 @@
+{"src_ext":"cpp","name":"C. Combination Lock","src_ft":"cpp","src_name":"C_Combination_Lock","tests":[{"output":"-1\n4 1 3 5 2\n1 3 2\n","stdout":"-1\n1 3 5 2 4 \n1 3 2 \n","stderr":"","time_taken":0.006,"status":{"text":"Wrong answer","hl":"AstTextRed"},"input":"3\n4\n5\n3\n"}],"need_compilation":true}

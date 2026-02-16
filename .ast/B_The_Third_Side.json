@@ -1,0 +1,1 @@
+{"src_ext":"py","src_name":"B_The_Third_Side","tests":[{"input":"4\n1\n10\n3\n998 244 353\n5\n1 2 3 4 5\n9\n9 9 8 2 4 4 3 5 3\n","time_taken":0.032,"stdout":"10\n1593\n11\n39\n","stderr":"","output":"10\n1593\n11\n39\n","status":{"text":"Accepted","hl":"AstTextGreen"}}],"src_ft":"python","need_compilation":true,"name":"B. The Third Side"}

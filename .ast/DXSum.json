@@ -1,0 +1,1 @@
+{"src_name":"DXSum","need_compilation":false,"problem_name":"D. X-Sum","tests":[{"stderr":"","time_taken":0.023,"group":"AssistantGreen","input":"4\n4 4\n1 2 2 1\n2 4 2 4\n2 2 3 1\n2 4 2 4\n2 1\n1\n0\n3 3\n1 1 1\n1 1 1\n1 1 1\n3 3\n0 1 1\n1 0 1\n1 1 0\n","output":"20\n1\n5\n3\n","status":"ACCEPTED","stdout":"20\n1\n5\n3\n"}],"src_ft":"python","src_ext":"py"}

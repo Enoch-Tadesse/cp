@@ -1,0 +1,1 @@
+{"src_ext":"py","src_name":"B_Ropes","need_compilation":true,"name":"B. Ropes","tests":[{"time_taken":0.034,"input":"4 11\n802\n743\n457\n539\n","output":"200.5\n","stdout":"200.4999990285986\n","stderr":"","status":{"text":"Wrong answer","hl":"AstTextRed"}}],"src_ft":"python"}

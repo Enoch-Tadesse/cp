@@ -1,0 +1,1 @@
+{"src_ext":"py","need_compilation":false,"tests":[{"input":"2\n2 2 2 2\n1 2 3 4\n","time_taken":0.033,"stdout":"Yes\nNo\n","stderr":"","output":"Yes\nNo\n","status":{"text":"Accepted","hl":"AstTextGreen"}}],"src_ft":"python","src_name":"A_Draw_A_Square","name":"A. Draw a Square"}

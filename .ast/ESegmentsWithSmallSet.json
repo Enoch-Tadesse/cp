@@ -1,0 +1,1 @@
+{"tests":[{"stdout":"20\n","stderr":"","group":"AssistantGreen","status":"ACCEPTED","input":"7 3\n2 6 4 3 6 8 3\n","output":"20\n","time_taken":0.027}],"need_compilation":false,"problem_name":"E. Segments with Small Set","src_name":"ESegmentsWithSmallSet","src_ft":"python","src_ext":"py"}

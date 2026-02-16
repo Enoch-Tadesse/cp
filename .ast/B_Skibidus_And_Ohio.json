@@ -1,0 +1,1 @@
+{"name":"B. Skibidus and Ohio","src_ft":"cpp","src_ext":"cpp","src_name":"B_Skibidus_And_Ohio","tests":[{"stderr":"","status":{"text":"Accepted","hl":"AstTextGreen"},"time_taken":0.005,"input":"4\nbaa\nskibidus\ncc\nohio\n","output":"1\n8\n1\n4\n","stdout":"1 8 1 4 "}],"need_compilation":true}

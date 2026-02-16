@@ -1,0 +1,1 @@
+{"tests":[{"input":"3\n3\n1 2 3\n5\n3 1 4 1 5\n1\n1\n","output":"3\n4\n1\n","stdout":"3\n4\n1\n","stderr":"","status":{"hl":"AstTextGreen","text":"Accepted"},"time_taken":0.033}],"src_ext":"py","src_name":"A_Common_Multiple","need_compilation":false,"src_ft":"python","name":"A. Common Multiple"}

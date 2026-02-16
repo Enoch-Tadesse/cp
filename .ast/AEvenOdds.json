@@ -1,0 +1,1 @@
+{"src_ft":"python","src_ext":"py","need_compilation":false,"problem_name":"A. Even Odds","src_name":"AEvenOdds","tests":[{"group":"AssistantGreen","stdout":"5\n","status":"ACCEPTED","time_taken":0.026,"stderr":"","input":"10 3\n","output":"5\n"},{"group":"AssistantRed","stdout":"4\n","status":"WRONG ANSWER","time_taken":0.023,"stderr":"","input":"7 7\n","output":"6\n"}]}

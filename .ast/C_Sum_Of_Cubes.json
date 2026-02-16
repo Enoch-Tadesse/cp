@@ -1,0 +1,1 @@
+{"problem_name":"C. Sum of Cubes","src_ft":"cpp","src_name":"C_Sum_Of_Cubes","tests":[{"status":"ACCEPTED","output":"NO\nYES\nNO\nNO\nYES\nYES\nYES\n","input":"7\n1\n2\n4\n34\n35\n16\n703657519796\n","stdout":"NO\nYES\nNO\nNO\nYES\nYES\nYES\n","stderr":"","time_taken":0.008,"group":"AssistantGreen"}],"need_compilation":false,"src_ext":"cpp"}

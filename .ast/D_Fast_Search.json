@@ -1,0 +1,1 @@
+{"tests":[{"stdout":"5 2 2 0 ","time_taken":0.028,"stderr":"","group":"AssistantGreen","input":"5\n10 1 10 3 4\n4\n1 10\n2 9\n3 4\n2 2\n","output":"5 2 2 0\n","status":"AC"}],"src_ft":"python","src_ext":"py","src_name":"D_Fast_Search","problem_name":"D. Fast search","need_compilation":false}

@@ -1,0 +1,1 @@
+{"filename":"A_Destroying_Bridges","extension":"cpp","tests":[{"input":"6\n2 0\n2 1\n4 1\n5 10\n5 3\n4 4\n","time_taken":0.005,"status":{"hl":"AstTextGreen","text":"Accepted"},"stdout":"2\n1\n4\n1\n5\n1\n","stderr":"","output":"2\n1\n4\n1\n5\n1\n"}],"src_ft":"cpp","src_ext":"cpp","src_name":"A_Destroying_Bridges","need_compilation":false,"name":"A. Destroying Bridges"}

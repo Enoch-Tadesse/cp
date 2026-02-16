@@ -1,0 +1,32 @@
+import sys
+#sys.setrecursionlimit(10**6)
+from collections import Counter, defaultdict, deque
+from bisect import bisect_left, bisect_right
+from copy import deepcopy
+import math
+
+# input = input
+input = sys.stdin.readline
+
+
+def solve():
+    
+    x, y = list(map(int, input().split()))
+    a , b = list(map(int, input().split()))
+    if x > y:
+        x, y = y , x
+    counter = min((x ) * b , (x ) * 2 * a)
+    diff = y - x
+    counter += diff * a;
+    print(counter)
+
+
+def main():
+    t = int(input())
+    
+    for _ in range(t):
+        solve()
+
+
+if __name__ == '__main__':
+    main()

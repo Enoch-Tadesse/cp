@@ -1,0 +1,1 @@
+{"src_ft":"cpp","src_ext":"cpp","src_name":"A_Die_Roll","name":"A. Die Roll","tests":[{"status":{"text":"Accepted","hl":"AstTextGreen"},"time_taken":0.006,"stdout":"1/2\n","stderr":"","output":"1/2\n","input":"4 2\n"}],"need_compilation":true}

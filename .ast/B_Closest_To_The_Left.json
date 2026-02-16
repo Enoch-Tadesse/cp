@@ -1,0 +1,1 @@
+{"problem_name":"B. Closest to the Left","src_name":"B_Closest_To_The_Left","src_ft":"python","src_ext":"py","tests":[{"stdout":"0\n2\n4\n0\n5\n","group":"AssistantGreen","stderr":"","input":"5 5\n3 3 5 8 9\n2 4 8 1 10\n","status":"ACCEPTED","output":"0\n2\n4\n0\n5\n","time_taken":0.025}],"need_compilation":false}

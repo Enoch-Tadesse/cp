@@ -1,0 +1,1 @@
+{"src_ft":"python","src_ext":"py","src_name":"FSegmentsWithSmallSpread","problem_name":"F. Segments with Small Spread","need_compilation":true,"tests":[{"status":{"text":"Accepted","hl":"AstTextGreen"},"output":"16\n","stdout":"16\n","stderr":"","time_taken":0.031,"input":"7 3\n2 6 4 3 6 8 9\n","group":"AssistantGreen"}]}

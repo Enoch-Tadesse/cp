@@ -1,0 +1,1 @@
+{"tests":[{"input":"2 3 10\n","output":"9\n","stdout":"9\n","stderr":"","time_taken":0.03,"status":{"hl":"AstTextGreen","text":"Accepted"}}],"src_ext":"py","need_compilation":true,"src_ft":"python","name":"A. Packing Rectangles","src_name":"A_Packing_Rectangles"}

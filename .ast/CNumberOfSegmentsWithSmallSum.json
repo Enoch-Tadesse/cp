@@ -1,0 +1,1 @@
+{"tests":[{"status":{"text":"Accepted","hl":"AstTextGreen"},"stdout":"19\n","stderr":"","input":"7 20\n2 6 4 3 6 8 9\n","time_taken":0.025,"group":"AssistantGreen","output":"19\n"}],"src_ft":"python","src_ext":"py","need_compilation":false,"src_name":"CNumberOfSegmentsWithSmallSum","problem_name":"C. Number of Segments with Small Sum"}

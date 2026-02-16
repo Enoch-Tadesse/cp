@@ -1,0 +1,1 @@
+{"src_name":"ASoldierAndBananas","problem_name":"A. Soldier and Bananas","src_ft":"cpp","src_ext":"cpp","tests":[{"input":"3 17 4\n","output":"13\n","time_taken":0.004,"stdout":"13","stderr":"","status":"ACCEPTED","group":"AssistantGreen"}],"need_compilation":false}

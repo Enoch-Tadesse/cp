@@ -1,0 +1,1 @@
+{"problem_name":"C. Closest to the Right","src_name":"C_Closest_To_The_Right","src_ft":"python","src_ext":"py","tests":[{"stdout":"1\n3\n4\n1\n6\n","group":"AssistantGreen","stderr":"","status":"ACCEPTED","input":"5 5\n3 3 5 8 9\n2 4 8 1 10\n","output":"1\n3\n4\n1\n6\n","time_taken":0.021}],"need_compilation":false}

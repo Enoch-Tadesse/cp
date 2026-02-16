@@ -1,0 +1,1 @@
+{"name":"D. Array and GCD","src_name":"D_Array_And_GCD","tests":[{"input":"5\n3\n5 5 5\n4\n2 3 2 4\n1\n3\n3\n2 100 2\n5\n2 4 2 11 2\n","output":"0\n2\n0\n0\n1\n","status":{"hl":"AstTextRed","text":"Wrong answer"},"stderr":"","stdout":"412849\n0\n2\n0\n0\n1\n","time_taken":0.204}],"src_ft":"cpp","need_compilation":true,"src_ext":"cpp"}

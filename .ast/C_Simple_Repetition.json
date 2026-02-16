@@ -1,0 +1,1 @@
+{"src_ext":"cpp","src_name":"C_Simple_Repetition","tests":[{"output":"NO\nNO\nYES\nNO\n","stdout":"NO\nNO\nYES\nNO\n","stderr":"","time_taken":0.007,"input":"4\n52 3\n6 7\n7 1\n1 7\n","status":{"text":"Accepted","hl":"AstTextGreen"}}],"src_ft":"cpp","need_compilation":true,"name":"C. Simple Repetition"}

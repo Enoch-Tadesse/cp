@@ -1,0 +1,1 @@
+{"tests":[{"status":{"hl":"AstTextRed","text":"Wrong answer"},"input":"4\nbaba\ncc\nddaa\nacbacddacbca\n","output":"2\n0\n3\n2\n","stdout":"","time_taken":0.024,"stderr":""}],"need_compilation":false,"src_ft":"python","src_ext":"py","src_name":"D_Palindrome_Shuffle","name":"D. Palindrome Shuffle"}

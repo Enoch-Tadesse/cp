@@ -1,0 +1,1 @@
+{"src_ft":"python","src_ext":"py","tests":[{"stdout":"1\n0 1 \n","stderr":"","time_taken":0.036,"input":"1 2\n2 1 1\n1 1 2\n","output":"1\n0 1\n","status":{"text":"Accepted","hl":"AstTextGreen"}}],"src_name":"D_Children_Holiday","need_compilation":true,"name":"D. Children Holiday"}

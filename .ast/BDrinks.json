@@ -1,0 +1,1 @@
+{"tests":[{"output":"66.666666666667\n","input":"3\n50 50 100\n"},{"output":"37.500000000000\n","input":"4\n0 25 50 75\n"}],"problem_name":"B. Drinks"}

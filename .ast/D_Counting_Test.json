@@ -1,0 +1,1 @@
+{"tests":[{"input":"1\n8 5\nabcabdca\n1 8 c\n1 15 b\n4 9 a\n5 25 d\n2 7 c\n","stdout":"2\n4\n3\n3\n2\n","status":{"hl":"AstTextGreen","text":"Accepted"},"output":"2\n4\n3\n3\n2\n","group":"AssistantGreen","time_taken":0.028,"stderr":""}],"need_compilation":false,"src_ft":"python","src_ext":"py","src_name":"D_Counting_Test","problem_name":"D. Counting Test"}

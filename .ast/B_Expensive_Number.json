@@ -1,0 +1,1 @@
+{"src_ext":"cpp","src_name":"B_Expensive_Number","tests":[{"output":"2\n4\n3\n0\n","stdout":"2\n4\n3\n0\n","stderr":"","time_taken":0.006,"input":"4\n666\n13700\n102030\n7\n","status":{"text":"Accepted","hl":"AstTextGreen"}}],"src_ft":"cpp","need_compilation":true,"name":"B. Expensive Number"}

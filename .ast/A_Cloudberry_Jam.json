@@ -1,0 +1,1 @@
+{"name":"A. Cloudberry Jam","need_compilation":false,"src_ft":"cpp","tests":[{"output":"2\n6\n","stdout":"2\n6\n","stderr":"","status":{"hl":"AstTextGreen","text":"Accepted"},"time_taken":0.006,"input":"2\n1\n3\n"}],"src_ext":"cpp","src_name":"A_Cloudberry_Jam"}

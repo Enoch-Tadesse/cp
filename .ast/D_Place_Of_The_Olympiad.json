@@ -1,0 +1,1 @@
+{"src_ext":"cpp","name":"D. Place of the Olympiad","src_ft":"cpp","src_name":"D_Place_Of_The_Olympiad","tests":[{"output":"2\n1\n1\n4\n2\n","stdout":"2\n1\n1\n4\n2\n","stderr":"","time_taken":0.008,"status":{"text":"Accepted","hl":"AstTextGreen"},"input":"5\n3 4 7\n5 5 5\n1 13 2\n2 4 7\n1 5 4\n"}],"need_compilation":false}

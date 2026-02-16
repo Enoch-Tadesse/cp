@@ -1,0 +1,1 @@
+{"src_ft":"cpp","name":"C. Brr Brrr Patapim","src_name":"C_Brr_Brrr_Patapim","tests":[{"time_taken":0.01,"input":"3\n3\n1 6 2\n6 2 4\n2 4 3\n1\n1\n2\n2 3\n3 4\n","output":"5 1 6 2 4 3\n2 1\n1 2 3 4\n","status":{"text":"Accepted","hl":"AstTextGreen"},"stdout":"5 1 6 2 4 3 \n2 1 \n1 2 3 4 \n","stderr":""}],"need_compilation":false,"src_ext":"cpp"}

@@ -1,0 +1,1 @@
+{"src_ext":"cpp","src_name":"A_Ideal_Generator","tests":[{"output":"YES\nNO\nYES\nYES\nNO\n","stdout":"YES\nNO\nYES\nYES\nNO\n","stderr":"","time_taken":0.007,"input":"5\n1\n2\n3\n73\n1000\n","status":{"text":"Accepted","hl":"AstTextGreen"}}],"src_ft":"cpp","need_compilation":true,"name":"A. Ideal Generator"}

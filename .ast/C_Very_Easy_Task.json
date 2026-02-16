@@ -1,0 +1,1 @@
+{"tests":[{"status":{"hl":"AstTextGreen","text":"Accepted"},"output":"3\n","time_taken":0.008,"stdout":"3 ","stderr":"","input":"4 1 1\n"},{"status":{"hl":"AstTextGreen","text":"Accepted"},"output":"4\n","time_taken":0.012,"stdout":"4 ","stderr":"","input":"5 1 2\n"}],"src_name":"C_Very_Easy_Task","src_ext":"cpp","need_compilation":false,"name":"C. Very Easy Task","src_ft":"cpp"}

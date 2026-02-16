@@ -1,0 +1,1 @@
+{"tests":[{"group":"AssistantGreen","stdout":"9\n","stderr":"","time_taken":0.023,"status":"ACCEPTED","input":"7 20\n2 6 4 3 6 8 9\n","output":"9\n"}],"src_ft":"python","src_name":"DNumberOfSegmentsWithBigSum","need_compilation":false,"src_ext":"py","problem_name":"D. Number of Segments with Big Sum"}

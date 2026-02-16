@@ -1,0 +1,1 @@
+{"src_name":"A_Three_Decks","need_compilation":true,"src_ft":"cpp","name":"A. Three Decks","tests":[{"input":"4\n3 5 10\n12 20 30\n3 5 7\n1 5 6\n","output":"YES\nNO\nYES\nNO\n","stdout":"YES\nNO\nYES\nNO\n","stderr":"","status":{"text":"Accepted","hl":"AstTextGreen"},"time_taken":0.01}],"src_ext":"cpp"}

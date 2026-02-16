@@ -1,0 +1,1 @@
+{"src_ft":"python","src_ext":"py","tests":[{"group":"AssistantGreen","time_taken":0.024,"input":"6 7\n1 6 9 13 18 18\n2 3 8 13 15 21 25\n","output":"1 1 2 3 4 6 6\n","status":"ACCEPTED","stdout":"1 1 2 3 4 6 6\n","stderr":""}],"need_compilation":false,"problem_name":"B. Number of Smaller","src_name":"BNumberOfSmaller"}

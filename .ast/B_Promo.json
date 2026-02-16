@@ -1,0 +1,1 @@
+{"src_ext":"py","need_compilation":false,"tests":[{"stderr":"","input":"5 3\n5 3 1 5 2\n3 2\n1 1\n5 3\n","output":"8\n5\n6\n","status":"ACCEPTED","time_taken":0.032,"group":"AssistantGreen","stdout":"8\n5\n6\n"}],"problem_name":"B. Promo","src_name":"B_Promo","src_ft":"python"}

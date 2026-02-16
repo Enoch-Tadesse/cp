@@ -1,0 +1,1 @@
+{"src_ft":"cpp","tests":[{"time_taken":0.008,"input":"4\n4 2 -2 2\n4 1 0 4\n3 3 -1 2\n9 8 -6 3\n","output":"-1 1\n0 1\n-1 2\n-5 3\n","status":{"text":"Wrong answer","hl":"AstTextRed"},"stdout":"-2 0\n0 1\n-1 2\n-6 2\n","stderr":""}],"src_name":"B_Bobritto_Bandito","src_ext":"cpp","need_compilation":true,"name":"B. Bobritto Bandito"}
