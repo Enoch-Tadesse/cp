@@ -24,19 +24,34 @@ def is_prime(n):
 def solve():
     n = int(input())
     # whoever is on power of two losses
+    # whoever has an odd number besides 1 wins,
+    # just choose to divide the number by itself, and the next person will have 1
+    # which makes them lose
+
     game = ["Ashishgup", "FastestFinger"]
-    if n == 1:
+    if n == 1: # whoever has this, loses
         print(game[1])
     elif n == 2:
         print(game[0])
-    elif n == 3:
+    elif n == 3: # game[0] can divide 3 by itself, and get 1, then game[1] will lose
         print(game[0])
     else:
-        if n & (n - 1) == 0:
+        if n.bit_count() == 1:
+            # if the number is a power of two, there is no odd divisor
+            # the only option is to do -1, then even number minus 1 will give an odd number
+            # the next pweron will hold the odd number and divide it by itself
+            # which makes the next person game[1] win the game
             print(game[1])
         elif n % 2 == 0 and is_prime(n // 2):
+            # any number is made up of 2 ** k * m, meaning m is odd.
+            # game[0] will try to lead the game[1] to have only 2 ** k
+            # leaving him with a power of two, but if m is the only odd divisor
+            # that means n = 2 * prime, he can only divide by the prime, and game[1]
+            # will have 2, which he will subtract 1 and wins
             print(game[1])
         else:
+            # other wise, game[0] will divide by m and will leave game[1] with
+            # only 2 ** k, a power of two, and game[1] will lose
             print(game[0])
 
 
